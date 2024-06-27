@@ -1,6 +1,6 @@
 example = 'Собака'
-print(example[0])
-print(example[-1])
-print(example[3:])
-print(example[::-1])
-print(example[::2])
+print(example[0]) #С
+print(example[-1]) #а
+print(example[3:]) #ака
+print(example[::-1]) #акабоС
+print(example[::2]) #Сбк
